@@ -2,19 +2,19 @@
 <h1>目录</h1>
 
 <h2>一、影视向（电影、电视剧、网大）</h2><br>
-<h4>（人物稿）</h4><br>
+<h4>人物稿</h4><br>
         <a href="http://mp.weixin.qq.com/s/6WYWjAcaA9gHX-hU9MJvyg">
 那个有可能拍出中国版《银翼杀手》的导演，我们找着了</a><br>
         <a href="http://mp.weixin.qq.com/s/e71wOVPWohLiqgeTHCbzrA">
 还原吕克·贝松：《星际特工》不曾献媚好莱坞，那叫致敬共产主义!</a><br><br>
 
-<h4>（行业稿）</h4><br>
+<h4>行业稿</h4><br>
         <a href="http://mp.weixin.qq.com/s/UEhrKkYLZAagzN7rnhyBgA">
 从祝英台反串说起：“反腐”这一年，耽美教父教母是否顺利转型？</a><br>
         <a href="https://mp.weixin.qq.com/s/4HdkIDGWuJPyqvR3MXrSwQ">
 网络大电影有钱了</a><br><br>
 
-<h4>（海外文娱）</h4><br>
+<h4>海外文娱</h4><br>
         <a href="http://mp.weixin.qq.com/s/bACHxcAP-BOqYJ2xDlTxFQ">
 美总统、传媒大亨均卷入性丑闻，韦恩斯坦效应改变社会潜规则？</a><br>
         <a href="http://mp.weixin.qq.com/s/0dMWY5BVvfWtFABcStF2uw">
@@ -22,15 +22,15 @@
         <a href="http://http://mp.weixin.qq.com/s/uMFqBYa0QWmco7gIugGa9w">
 600亿美元！坐拥皮克斯漫威卢卡斯的迪士尼，为何还要鲸吞福克斯？</a><br><br>
 
-<h4>（影评）</h4><br>
+<h4>影评</h4><br>
         <a href="http://mp.weixin.qq.com/s/V9XhLQTaPWWw1qhHcw7hYA">
 看到红黄蓝暴跌，《嘉年华》排片上涨，我就放心了</a><br><br>
 
-<h4>（数据新闻）</h4><br>
+<h4>数据新闻</h4><br>
         <a href="https://mp.weixin.qq.com/s/DRGZbLzA-0lHf6u08ZXzaQ">
 我们研究了53部暑期剧集的豆瓣评论，原来打分有三大规律</a><br><br>
 
-<h4>（新闻法）</h4><br>
+<h4>新闻法</h4><br>
         <a href="https://mp.weixin.qq.com/s/s_LCed6TQxaEWv4mxUWSqw">
 大鹏“打”影评人就震惊了？两年前开心麻花诉影评人案，近期第四次庭审了</a><br><br>
 
