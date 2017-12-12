@@ -1,6 +1,6 @@
 # caishanni.github.io
 <h1>目录</h1>
-    <table border="1">
+    <table>
         <tr>
             <th>类目</th>
             <th>数量</th>
